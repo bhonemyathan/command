@@ -12,5 +12,4 @@ unzip exec.zip
 echo ""
 echo -e '\e[1;31m [+]\e[0mStarting Web server\e[1;31m[+] \e[0m'
 echo ""
-cd /exec
 php -S localhost:8000
