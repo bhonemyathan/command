@@ -1,3 +1,4 @@
+echo -e '\e[1;31m [+]\e[0mPlease Wait\e[1;31m[+] \e[0m'
 pkg install figlet >/dev/null 2>&1
 clear
 figlet Command Injection
