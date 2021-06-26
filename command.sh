@@ -8,7 +8,7 @@ pkg install unzip
 echo ""
 echo -e '\e[1;31m [+]\e[0mPlease wait unzipping\e[1;31m[+] \e[0m'
 echo ""
-unzip
+unzip exec.zip
 echo ""
 echo -e '\e[1;31m [+]\e[0mStarting Web server\e[1;31m[+] \e[0m'
 echo ""
