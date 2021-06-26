@@ -1,0 +1,3 @@
+finish_flag_command3
+
+#flag.txt for method3
